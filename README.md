@@ -29,13 +29,10 @@ Cài đặt theo hệ điều hành: (chọn một trong những phương án c�
 Trong hướng dẫn có phần chi tiết để lựa chọn 1 trong 2 phương án là cài đặt Online (đề xuất nên sử dụng) hoặc Offline (không cần Internet ở máy cần cài đặt)
 
 ### Hướng dẫn cài đặt trên Windows
-Hướng dẫn cài đặt dotob_lo trên Windows (WSL2 + Docker Desktop) — Online hoặc Offline: <a href="install/INSTALL_WINDOWS_DOCKER_DESKTOP.md" target="_blank">`install/INSTALL_WINDOWS_DOCKER_DESKTOP.md`</a>
+Hướng dẫn cài đặt dotob_lo trên Windows (WSL2 + Docker Desktop) — Online hoặc Offline: <a href="install/offline-windows/README.md" target="_blank">`install/INSTALL_WINDOWS_DESKTOP.md`</a>
 
 ### Hướng dẫn cài đặt trên Linux (đề xuất nên sử dụng)
-Hướng dẫn cài đặt dotob_lo trên Linux (Docker Engine + Docker Compose V2) — Online hoặc Offline: <a href="install/INSTALL_LINUX_DOCKER_ENGINE.md" target="_blank">`install/INSTALL_LINUX_DOCKER_ENGINE.md`</a>
-
-### Hướng dẫn cài đặt trên macOS
-Hướng dẫn cài đặt dotob_lo trên macOS (Docker Desktop) — Online hoặc Offline: <a href="install/INSTALL_MACOS_DOCKER_DESKTOP.md" target="_blank">`install/INSTALL_MACOS_DOCKER_DESKTOP.md`</a>
+Hướng dẫn cài đặt dotob_lo trên Linux (Docker Engine + Docker Compose V2) — Online hoặc Offline: <a href="install/offline-linux/README.md" target="_blank">`install/INSTALL_LINUX_ENGINE.md`</a>
 
 ## Các thành phần chính
 
